@@ -14,6 +14,7 @@
 		</form>
 
 		<?php
+		
 
 			if($_POST["male"]==true){
 				$MOF = "Male";
